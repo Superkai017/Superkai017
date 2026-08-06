@@ -1,5 +1,5 @@
 ## Hi there 👋
-Art Oudom (Dom) | AI Major @ American University of Phnom Penh (AUPP)
+Art Oudom (Dom) | AI Major @ American University of Phnom Penh (AUPP) Sophomore
 
 Passionate about building end-to-end intelligent systems, from core ML models and linear algebra Calculus Statistic to full-stack integration. Currently working with Python, Pandas, PyTorch, SQL, and modern web architectures to bridge machine learning theory with production software. Always building, learning, and open to collaboration!
 
