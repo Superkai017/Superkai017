@@ -1,14 +1,14 @@
-## Hi there 👋
-Art Oudom (Dom) | AI Major @ American University of Phnom Penh (AUPP) Sophomore
+# 💫 About Me:
+## 👨‍💻 About Me<br><br>- 🎓 **Education:** AI Major at **American University of Phnom Penh (AUPP)**<br>- 💡 **Focus:** End-to-end intelligent systems, machine learning theory, and production software<br>- 📚 **Currently Studying:** Applied Linear Algebra, Multivariable Calculus, Probability & Statistics, and Deep Learning<br>- 🛠️ **Building:** Machine learning models & web architectures using Python, PyTorch, Pandas, and SQL<br>- 🤝 **Open To:** Research collaborations, ML engineering projects, and open-source contributions<br>- 📫 **Reach Me:** [LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:your.email@example.com)
 
-Passionate about building end-to-end intelligent systems, from core ML models and linear algebra Calculus Statistic to full-stack integration. Currently working with Python, Pandas, PyTorch, SQL, and modern web architectures to bridge machine learning theory with production software. Always building, learning, and open to collaboration!
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![AI/ML]
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Superkai017&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Superkai017&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Superkai017&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Superkai017&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Superkai017&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Superkai017&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Superkai017&icon=0&color=0)](https://visitcount.itsvg.in)
