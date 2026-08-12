@@ -1,7 +1,7 @@
 # 💫 About Me
 
 - 🎓 **Education:** AI Major at **American University of Phnom Penh (AUPP)**
-- 💡 **Focus:** End-to-end intelligent systems — from ML theory to deployed production software
+- 💡 **Focus:** Turning Raw Data into an Insight End-to-end intelligent systems — from ML theory to deployed production software
 - 📚 **Currently Studying:** Applied Linear Algebra, Multivariable Calculus, Probability & Statistics, Deep Learning, Gen AI,Data Engineer
 - 🛠️ **Building:** ML models and full-stack web architectures in Python, PyTorch, and SQL
 - 🌏 **Side Quest:** EdTech for Cambodian students — exam prep and robotics learning platforms
